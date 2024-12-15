@@ -1,2 +1,2 @@
-# dataset_for_churn_prediction_model
-Cleaned and Preprocessed Ddtaset
+# Dataset For Churn Prediction Model
+Cleaned and Preprocessed Dataset
